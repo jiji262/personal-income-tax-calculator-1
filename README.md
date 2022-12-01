@@ -19,3 +19,8 @@
 ### 贡献城市数据
 
 参考`src/constant/index.js`下城市数据格式，发issue或者PR
+
+
+### 原作者
+
+https://github.com/YutHelloWorld/personal-income-tax-calculator#readme
